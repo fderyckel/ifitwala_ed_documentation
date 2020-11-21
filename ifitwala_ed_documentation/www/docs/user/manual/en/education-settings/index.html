@@ -1,0 +1,36 @@
+{% set doc=[
+	{
+		"links": [
+			{
+				"content": "A Student is a person who has enrolled at your institute and you have accepted their application.",
+				"link": "/docs/user/manual/en/education-settings/academic-year",
+				"title": "Academic Year"
+			},
+			{
+				"content": "The Guardian doctype allows you to record the guardian details for a Student.",
+				"link": "/docs/user/manual/en/education-settings/academic-term",
+				"title": "Academic Term"
+			},
+			{
+				"content": "The Student Log Doctype enables you to add and edit addtional information for a student.",
+				"link": "/docs/user/manual/en/education-settings/department",
+				"title": "Department"
+			},
+			{
+				"content": "A student group is a collection of students taking same course. You can create Course Schedules and Examinations against a Student Group.",
+				"link": "/docs/user/manual/en/education-settings/school",
+				"title": "School"
+			}
+		],
+		"title": "Settings"
+	}
+] %}
+
+{% from "ifitwala_ed_documentation/templates/includes/macros.html" import doc_page %}
+
+{{ doc_page(
+	'Education',
+	'Manage your school main settings such as Schools, Departments, Academic terms, Academic year, calendars and options for your LMS.',
+	doc,
+	'/docs/user/manual/en/education/contents'
+) }}
