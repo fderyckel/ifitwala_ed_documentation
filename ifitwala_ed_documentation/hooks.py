@@ -11,6 +11,13 @@ app_color = "grey"
 app_email = "f.deryckel@gmail.com"
 app_license = "MIT"
 
+website_context = {
+	"repo": "fderyckel/ifitwala_ed_documentation",
+	"hide_login": 1,
+	"favicon": "/assets/ifitwala_ed_documentation/img/erpnext-logo-blue.png"
+}
+
+
 # Includes in <head>
 # ------------------
 
@@ -42,7 +49,11 @@ app_license = "MIT"
 # ----------
 
 # application home page (will override Website Settings)
-# home_page = "login"
+home_page = "index"
+
+base_template_map = {
+	r'docs/user/manual.*': 'templates/ifitwala_ed_docs.html'
+}
 
 # website user home page (by Role)
 # role_home_page = {
@@ -142,4 +153,3 @@ app_license = "MIT"
 # exempt linked doctypes from being automatically cancelled
 #
 # auto_cancel_exempted_doctypes = ["Auto Repeat"]
-
