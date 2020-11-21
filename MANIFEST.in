@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ifitwala_ed_documentation *.css
+recursive-include ifitwala_ed_documentation *.csv
+recursive-include ifitwala_ed_documentation *.html
+recursive-include ifitwala_ed_documentation *.ico
+recursive-include ifitwala_ed_documentation *.js
+recursive-include ifitwala_ed_documentation *.json
+recursive-include ifitwala_ed_documentation *.md
+recursive-include ifitwala_ed_documentation *.png
+recursive-include ifitwala_ed_documentation *.py
+recursive-include ifitwala_ed_documentation *.svg
+recursive-include ifitwala_ed_documentation *.txt
+recursive-exclude ifitwala_ed_documentation *.pyc
