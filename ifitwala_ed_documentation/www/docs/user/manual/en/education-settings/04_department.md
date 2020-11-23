@@ -1,5 +1,5 @@
 <!-- add-breadcrumbs -->
-# School
+# Department
 
 
 {next}
