@@ -3,7 +3,7 @@
 
 **An academic year is a period of time that educational institutes uses to graduate students from one year to another.**
 
-To access the academic year, go to:
+To access the academic year doctype, go to:
 
 > Home > School Settings > Academic Year
 
@@ -17,7 +17,12 @@ Document View
 
 If you set up the *current academic year* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic year in new documents that are calling for that field.
 
-## 1. Fields to fill in the Academic Year  
+## 1. Before to fill in the Academic Year
+It is preferable to fill in first the
+
+* [The School](/docs/user/manual/en/education-settings/school) doctype
+
+## 2. Fields to fill in the Academic Year  
 
 ![Academic Year Fields in standard view](/docs/assets/img/school-settings/academic-year-fields.png)
 
@@ -29,14 +34,14 @@ Or in quick view.
 * *Year End Date*: the last day of your academic year.
 * *School*: Your school can have several sections such as Kindergarten, Primary Schools and Secondary Schools. The Academic year of each of these sections might not totally align.  
 
-## 2. Documents linked to Academic Year
+## 3. Documents linked to Academic Year
 
-* [Academic Term](/docs/user/manual/en/education-settings/academic-term)
+* [Academic Term](/docs/user/manual/en/education-settings/03_academic-term)
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
 * [Student Log](/docs/user/manual/en/student/student-log)
 
-## 3. Validation rules
+## 4. Validation rules
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
 * unique name for academic year
