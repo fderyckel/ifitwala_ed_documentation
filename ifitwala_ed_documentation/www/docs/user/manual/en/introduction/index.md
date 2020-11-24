@@ -9,7 +9,7 @@ Ifitwala Education is a frappe app like ERPNext. It is exclusively developed to 
 
 The way the Desktop has been set in ERPNext is overwhelming for any educators due to high numbers of modules irrelevant in the teaching practice.  
 
-With that in mind, we thought we would rebuild a similar app developed exclusively for schools.  We have also changed some logic behind some doctype and we have build more robust validation rules to ensure the validity of data. 
+With that in mind, we thought we would rebuild a similar app developed exclusively for schools.  We have also changed some logic behind some doctype and we have build more robust validation rules to ensure the validity of data.
 
 ## 2.  What does Ifitwala Education provide?
 
@@ -22,3 +22,4 @@ Here are the working modules you could expect:
 * An asset module.  Set up your rooms and your inventory
 * A curriculumm module.  Link your curriculum to your courses.
 * A parent portal to see your curriculum, book appointment, see children results.
+* A Human Resource module.  Set up your employees, their holidays. 
