@@ -20,6 +20,6 @@ Here are the working modules you could expect:
 * A health module.  Record the health profile of your students.  Record any visit to your school health practitioner.
 * A schedule module.  Create your programs, your courses, your instructor, your enrollments,
 * An asset module.  Set up your rooms and your inventory
-* A curriculumm module.  Link your curriculum to your courses.
+* A curriculum module.  Link your curriculum to your courses.
 * A parent portal to see your curriculum, book appointment, see children results.
-* A Human Resource module.  Set up your employees, their holidays. 
+* A Human Resource module.  Set up your employees, their holidays.
