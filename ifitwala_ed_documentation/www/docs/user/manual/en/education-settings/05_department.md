@@ -5,6 +5,10 @@
 
 A department can be linked to a particular section of your school but does not have to.  Usually each department has a lead.  
 
+To access the Academic Term doctype, go to:
+
+> Home > School Settings > Department  
+
 # 1. Before to fill in the department
 It is preferable to fill in first the
 
