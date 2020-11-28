@@ -21,7 +21,10 @@ Document View for a child school.
 ![Child School Document View](/docs/assets/img/school-settings/childschool-docview.png)
 
 
+## 2. Documents linked to Academic Year
 
+* [Academic Year](/docs/user/manual/en/education-settings/03_academic-year)
+* [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 
 
 {next}
