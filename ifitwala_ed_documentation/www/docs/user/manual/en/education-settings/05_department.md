@@ -9,10 +9,20 @@ To access the Academic Term doctype, go to:
 
 > Home > School Settings > Department  
 
+List View
+ ![Academic Term List View](/docs/assets/img/school-settings/department-listview.png)
+
+Document View
+![Academic Term List View](/docs/assets/img/school-settings/department-docview.png)
+
+
 # 1. Before to fill in the department
 It is preferable to fill in first the
 
 * [The School](/docs/user/manual/en/education-settings/01_school) doctype
 * [The Employee](/docs/user/manual/en/hr/employee.md) doctype
+
+
+
 
 {next}

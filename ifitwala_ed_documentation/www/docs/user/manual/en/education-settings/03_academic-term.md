@@ -30,9 +30,9 @@ It is preferable to fill in first the
 Or in quick view.
 ![Academic Term Fields in quick view](/docs/assets/img/school-settings/academic-term-fields-2.png)
 
-* *Academic Year*: a link to the Academic Year that this term belong to.
+* *Academic Year*: a link to the Academic Year that this term belong to
 * *Term Name*: the name to be given to the term.  For instance if you are having semesters as terms, you would call it S1 or S2.  If you are having quarters as terms, you could call it Q1 or Q2, etc.  You could also create a year long term for course that are year long.  
-* *Term Start Date*: the first day of your academic term.
+* *Term Start Date*: the first day of your academic term
 * *Term End Date*: the last day of your academic term.
 
 ## 3. Documents linked to Academic Year
