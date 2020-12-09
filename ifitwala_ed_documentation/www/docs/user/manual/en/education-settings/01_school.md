@@ -25,10 +25,10 @@ You can start by entering your main school. If you have only one school with jus
 
 * *School*:  for the name of your school
 * *Is group*: check this box is the school is a a parent school  
-* *Parent School*: a link to a a parent school within your organization.  This is when the school you are entering is a child school.  For instance, middle school and high school can be children of your main school 
+* *Parent School*: a link to a a parent school within your organization.  This is when the school you are entering is a child school.  For instance, middle school and high school can be children of your main school
 * *School Abbeviation*: a 3-5 letters abbreviation.
 
-## 2. Documents linked to Academic Year
+## 2. Documents linked to School
 
 * [Academic Year](/docs/user/manual/en/education-settings/02_academic-year)
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)

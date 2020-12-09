@@ -13,7 +13,7 @@ List View
  ![Academic Term List View](/docs/assets/img/school-settings/academic-term-listview.png)
 
 Document View
-![Academic Term List View](/docs/assets/img/school-settings/academic-term-docview.png)
+![Academic Term Document View](/docs/assets/img/school-settings/academic-term-docview.png)
 
 If you set up the *current academic term* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic term in new documents that are calling for that field.
 

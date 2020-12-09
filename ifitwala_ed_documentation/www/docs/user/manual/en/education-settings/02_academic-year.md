@@ -13,7 +13,7 @@ List View
  ![Academic Year List View](/docs/assets/img/school-settings/academic-year-listview.png)
 
 Document View
-![Academic Year List View](/docs/assets/img/school-settings/academic-year-docview.png)
+![Academic Year Document View](/docs/assets/img/school-settings/academic-year-docview.png)
 
 If you set up the *current academic year* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic year in new documents that are calling for that field.
 
@@ -41,11 +41,14 @@ Or in quick view.
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
 * [Student Log](/docs/user/manual/en/student/student-log)
 
-## 4. Validation rules
+## 4. Validation rules and default behaviors
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
 * unique name for the academic year for a given school
 * the start of the academic year cannot be after the end of the academic year (or vice-versa)
 
+Other default behaviors
+
+* title for academic year is automatically created by concatenating the name of the academic year and the abbreviation of the school.
 
 {next}
