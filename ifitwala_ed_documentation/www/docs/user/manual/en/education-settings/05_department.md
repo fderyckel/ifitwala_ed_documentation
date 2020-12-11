@@ -3,7 +3,8 @@
 
 **A Department is a team of educators that collaborate together around a discipline (the Arts dpt. or the Math dpt.) or around a category of students (the Learning Support dpt., the Middle School dpt.)**
 
-A department can be linked to a particular section of your school but does not have to.  Usually each department has a lead.  The lead of the department has to be picked one the department members.
+A department can be linked to a particular section of your school but does not have to.  Usually each department has a lead.  The lead of the department has to be picked among one of the department members.  
+Anyone employee can be part of a department. A person can be part of several departments.  They just have to be added in the department member list. 
 
 To access the Academic Term doctype, go to:
 
