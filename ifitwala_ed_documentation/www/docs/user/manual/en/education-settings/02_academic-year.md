@@ -37,6 +37,7 @@ Or in quick view.
 ## 3. Documents linked to Academic Year
 
 * [Academic Term](/docs/user/manual/en/education-settings/03_academic-term)
+* [School Calendar](/docs/user/manual/en/education-settings/04_school-calendar)
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
 * [Student Log](/docs/user/manual/en/student/student-log)

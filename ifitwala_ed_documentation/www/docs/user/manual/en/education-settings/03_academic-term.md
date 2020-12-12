@@ -35,7 +35,7 @@ Or in quick view.
 * *Term Start Date*: the first day of your academic term
 * *Term End Date*: the last day of your academic term.
 
-## 3. Documents linked to Academic Year
+## 3. Documents linked to Academic Term
 
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
