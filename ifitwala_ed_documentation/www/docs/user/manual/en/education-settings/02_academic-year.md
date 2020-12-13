@@ -29,9 +29,9 @@ It is preferable to fill in first the
 Or in quick view.
 ![Academic Year Fields in quick view](/docs/assets/img/school-settings/academic-year-fields-2.png)
 
-* *Academic Year Name*: How you want to call your academic year. You would choose something like 2020-2021, or 2020 (if in Southern Hemisphere countries)
-* *Year Start Date*: the first day of your academic year
-* *Year End Date*: the last day of your academic year
+* *Academic Year Name*: How you want to call your academic year. You would choose something like 2020-2021, or 2020 (if in Southern Hemisphere countries).
+* *Year Start Date*: the first day of your academic year.
+* *Year End Date*: the last day of your academic year.
 * *School*: Your school can have several sections such as Kindergarten, Primary Schools and Secondary Schools. The Academic year of each of these sections might not totally align.  
 
 ## 3. Documents linked to Academic Year
