@@ -13,7 +13,7 @@ List View
  ![Academic Year List View](/docs/assets/img/school-settings/academic-year-listview3.png)
 
 Document View
-![Academic Year Document View](/docs/assets/img/school-settings/academic-year-docview.png)
+![Academic Year Document View](/docs/assets/img/school-settings/academic-year-docview3.png)
 
 If you set up the *current academic year* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic year in new documents that are calling for that field.
 
@@ -24,7 +24,7 @@ It is preferable to fill in first the
 
 ## 2. Fields to fill in the Academic Year  
 
-![Academic Year Fields in standard view](/docs/assets/img/school-settings/academic-year-fields3.png)
+![Academic Year Fields in standard view](/docs/assets/img/school-settings/academic-year-fields-3.png)
 
 Or in quick view.
 ![Academic Year Fields in quick view](/docs/assets/img/school-settings/academic-year-fields-2.png)
