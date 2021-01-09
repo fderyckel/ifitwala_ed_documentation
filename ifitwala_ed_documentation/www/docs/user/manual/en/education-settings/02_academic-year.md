@@ -10,7 +10,7 @@ To access the academic year doctype, go to:
 An academic year comprises several academic terms.  Although start and end of academic year are not mandatory fields, we do strongly encourage to set up dates for these 2 fields to ensure the integrity of your data.  Many validation rules in other documents are based on these dates.  
 
 List View
- ![Academic Year List View](/docs/assets/img/school-settings/academic-year-listview.png)
+ ![Academic Year List View](/docs/assets/img/school-settings/academic-year-listview3.png)
 
 Document View
 ![Academic Year Document View](/docs/assets/img/school-settings/academic-year-docview.png)
@@ -20,11 +20,11 @@ If you set up the *current academic year* in the [education settings](/docs/user
 ## 1. Before to fill in the Academic Year
 It is preferable to fill in first the
 
-* [The School](/docs/user/manual/en/education-settings/school) doctype
+* [The School](/docs/user/manual/en/education-settings/01_school) doctype
 
 ## 2. Fields to fill in the Academic Year  
 
-![Academic Year Fields in standard view](/docs/assets/img/school-settings/academic-year-fields.png)
+![Academic Year Fields in standard view](/docs/assets/img/school-settings/academic-year-fields3.png)
 
 Or in quick view.
 ![Academic Year Fields in quick view](/docs/assets/img/school-settings/academic-year-fields-2.png)
@@ -40,9 +40,16 @@ Or in quick view.
 * [School Calendar](/docs/user/manual/en/education-settings/04_school-calendar)
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
-* [Student Log](/docs/user/manual/en/student/student-log)
+* [Student Log](/docs/user/manual/en/student/04_student-log)
 
-## 4. Validation rules and default behaviors
+## 4.  Roles and permissions.
+
+The following roles have permissions on the Academic Year.
+![Permissions for Academic Year](/docs/assets/img/school-settings/academic-year-permission.png)
+
+When the academic year is linked to a school, only the employee of that school (or its children) will have permission to read the DocType.
+
+## 5. Validation rules and default behaviors
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
 * unique name for the academic year for a given school
@@ -50,6 +57,7 @@ Here are some of the validation rules we have put in place to ensure the integri
 
 Other default behaviors
 
-* title for academic year is automatically created by concatenating the name of the academic year and the abbreviation of the school.
+* title for academic year is automatically created by concatenating the name of the academic year and the abbreviation of the school.  
+* two school events are created in the [School Event](/docs/user/manual/en/education-settings/07_school-event) Calendar.  One for the start of the academic year and one for its end.
 
 {next}
