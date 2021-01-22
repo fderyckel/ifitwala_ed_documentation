@@ -9,6 +9,7 @@ To access the Academic Term doctype, go to:
 
 Usually, holidays are separating 2 academic terms.  Although start and end of academic term are not mandatory fields, we do strongly encourage to set up dates for these 2 fields to ensure the integrity of your data.  Many validation rules in other documents are based on these dates.  
 
+## 1.  How does it look like?  
 List View
  ![Academic Term List View](/docs/assets/img/school-settings/academic-term-listview.png)
 
@@ -17,13 +18,13 @@ Document View
 
 If you set up the *current academic term* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic term in new documents that are calling for that field.
 
-## 1. Before to fill in the Academic Term
+## 2. Before to fill in the Academic Term
 It is preferable to fill in first the
 
 * [The School](/docs/user/manual/en/education-settings/01_school) doctype
 * [The Academic Year](/docs/user/manual/en/education-settings/02_academic-year) doctype
 
-## 2. Fields to fill in the Academic Term  
+## 3. Fields to fill in the Academic Term  
 
 In Standard View.
 ![Academic Term Fields in standard view](/docs/assets/img/school-settings/academic-term-fields.png)
@@ -36,13 +37,13 @@ Or in quick view.
 * *Term Start Date*: the first day of your academic term.
 * *Term End Date*: the last day of your academic term.
 
-## 3. Documents linked to Academic Term
+## 4. Documents linked to Academic Term
 
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
 * [Student Log](/docs/user/manual/en/student/student-log)
 
-## 4. Validation rules
+## 5. Validation rules
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
 * unique name for academic term

@@ -1,0 +1,51 @@
+{% set doc=[
+	{
+		"links": [
+			{
+				"content": "Set up all the courses taught within your educational instution.",
+				"link": "/docs/user/manual/en/schedule/01_course",
+				"title": "Course"
+			},
+			{
+				"content": "Set up your programs.",
+				"link": "/docs/user/manual/en/schedule/02_program",
+				"title": "Program"
+			},
+			{
+				"content": "Enroll your students in your programs.",
+				"link": "/docs/user/manual/en/schedule/03_program-enrollment",
+				"title": "Program Enrollment"
+			},
+			{
+				"content": "Use the enrollment tool to batch enroll students",
+				"link": "/docs/user/manual/en/schedule/04_program-enrollment-tool",
+				"title": "Program Enrollment Tool"
+			},
+			{
+				"content": "Create your student group  or classes (matching course, instructors and students).",
+				"link": "/docs/user/manual/en/schedule/05_student-group",
+				"title": "Student Group"
+			},
+			{
+				"content": "Batch create student group.",
+				"link": "/docs/user/manual/en/schedule/06_student-group-tool",
+				"title": "Student Group Creation Tool"
+			},
+			{
+				"content": "Set default parameters for your school and its CMS.",
+				"link": "/docs/user/manual/en/schedule/education-settings",
+				"title": "Education Settings"
+			}
+		],
+		"title": "Schedule"
+	}
+] %}
+
+{% from "ifitwala_ed_documentation/templates/includes/macros.html" import doc_page %}
+
+{{ doc_page(
+	'Education',
+	'Manage your schedule main settings such as courses, programs, instructors, student enrollment room and calendars.',
+	doc,
+	'/docs/user/manual/en/education/contents'
+) }}
