@@ -7,7 +7,7 @@ To access the Academic Term doctype, go to:
 
 > Home > School Settings > Academic Term
 
-Usually, holidays are separating 2 academic terms.  Although start and end of academic term are not mandatory fields, we do strongly encourage to set up dates for these 2 fields to ensure the integrity of your data.  Many validation rules in other documents are based on these dates.  
+Usually, report cards (based on [assessments](/docs/user/manual/en/assessment/index.html)) and [holidays](/docs/user/manual/en/education-settings/04_school-calendar) are separating 2 academic terms.  Although start and end of academic term are not mandatory fields, we do strongly encourage to set up dates for these 2 fields to ensure the integrity of your data. Many validation rules in other documents are based on these dates.  
 
 ## 1.  How does it look like?  
 List View
@@ -16,7 +16,7 @@ List View
 Document View
 ![Academic Term Document View](/docs/assets/img/school-settings/academic-term-docview.png)
 
-If you set up the *current academic term* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic term in new documents that are calling for that field.
+If you set up the *current academic term* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic term in all new documents that are calling for that field.
 
 ## 2. Before to fill in the Academic Term
 It is preferable to fill in first the
@@ -41,6 +41,8 @@ Or in quick view.
 
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
+* [Student Group](/docs/user/manual/en/schedule/05_student-group)
+* [Student Schedule](/docs/user/manual/en/schedule/07_course-schedule)
 * [Student Log](/docs/user/manual/en/student/student-log)
 
 ## 5. Validation rules

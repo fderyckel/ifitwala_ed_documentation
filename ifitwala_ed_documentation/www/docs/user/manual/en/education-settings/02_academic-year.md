@@ -40,6 +40,8 @@ Or in quick view.
 * [School Calendar](/docs/user/manual/en/education-settings/04_school-calendar)
 * [Education Settings](/docs/user/manual/en/education-settings/education-settings)
 * [Program Enrollment](/docs/user/manual/en/schedule/program-enrollment)
+* [Student Group](/docs/user/manual/en/schedule/05_student-group)
+* [Student Schedule](/docs/user/manual/en/schedule/07_course-schedule)
 * [Student Log](/docs/user/manual/en/student/04_student-log)
 
 ## 4.  Roles and permissions.
