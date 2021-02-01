@@ -44,14 +44,18 @@ Or in quick view.
 * [Student Schedule](/docs/user/manual/en/schedule/07_course-schedule)
 * [Student Log](/docs/user/manual/en/student/04_student-log)
 
-## 4.  Roles and permissions.
+## 4.  Roles and permissions
 
 The following roles have permissions on the Academic Year.
 ![Permissions for Academic Year](/docs/assets/img/school-settings/academic-year-permission.png)
 
-When the academic year is linked to a school, only the employee of that school (or its children) will have permission to read the DocType.
+When the academic year is linked to a school, only the employees of that school (or its children) will have permission to read the DocType.
 
-## 5. Validation rules and default behaviors
+## 5. Awesomeness, validation rules and other default behaviors
+
+* two all-day school events are created in the [School Event](/docs/user/manual/en/education-settings/07_school-event) Calendar.  One for the start of the academic year and one for its end. These events are public and will be visible to everyone belonging to that school.
+![Academic Year School Event](/docs/assets/img/school-settings/academic-year-calendar.png)
+
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
 * unique name for the academic year for a given school
@@ -60,6 +64,5 @@ Here are some of the validation rules we have put in place to ensure the integri
 Other default behaviors
 
 * title for academic year is automatically created by concatenating the name of the academic year and the abbreviation of the school.  
-* two school events are created in the [School Event](/docs/user/manual/en/education-settings/07_school-event) Calendar.  One for the start of the academic year and one for its end.
 
 {next}
