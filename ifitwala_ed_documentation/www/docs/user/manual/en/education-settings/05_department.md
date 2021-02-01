@@ -43,7 +43,13 @@ In Standard View (blank).
 * [Meeting](/docs/user/manual/en/education-settings/06_collaboration)
 * [Course](/docs/user/manual/en/schedule/01_course)
 
-## 4. Awesomeness, validation rules and other default behaviors
+## 4.  Roles and permissions
+
+The following roles have permissions on the Academic Term.
+![Permissions for Department](/docs/assets/img/school-settings/department-permission.png)
+
+
+## 5. Awesomeness, validation rules and other default behaviors
 
 Once your department is set with its members, you can now update the Email Group List (email of all members in the department). And you can start writing elaborate emails or newsletter to your own team.  You can also access directly the meeting page.
 

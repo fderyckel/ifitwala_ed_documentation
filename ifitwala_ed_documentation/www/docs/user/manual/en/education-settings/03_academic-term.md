@@ -47,7 +47,7 @@ Or in quick view.
 ## 4.  Roles and permissions
 
 The following roles have permissions on the Academic Term.
-![Permissions for Academic Year](/docs/assets/img/school-settings/academic-term-permission.png)
+![Permissions for Academic Term](/docs/assets/img/school-settings/academic-term-permission.png)
 
 When the academic term is linked to a school, only the employees of that school (or its children) will have permission to read the DocType.
 
