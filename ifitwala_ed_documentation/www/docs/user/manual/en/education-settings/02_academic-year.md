@@ -18,7 +18,7 @@ Document View
 If you set up the *current academic year* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic year in new documents that are calling for that field.
 
 ## 1. Before to fill in the Academic Year
-It is preferable to fill in first the
+It is preferable to fill in first 
 
 * [The School](/docs/user/manual/en/education-settings/01_school) doctype
 

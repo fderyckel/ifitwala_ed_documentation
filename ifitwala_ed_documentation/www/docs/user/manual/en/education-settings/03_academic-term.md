@@ -18,7 +18,7 @@ Document View
 If you set up the *current academic term* in the [education settings](/docs/user/manual/en/education-settings/education-settings) document, this will become the default academic term in all new documents that are calling for that field.  
 
 ## 1. Before to fill in the Academic Term
-It is preferable to fill in first the
+It is preferable to fill in first
 
 * [The School](/docs/user/manual/en/education-settings/01_school) doctype
 * [The Academic Year](/docs/user/manual/en/education-settings/02_academic-year) doctype
@@ -65,7 +65,7 @@ Here are some of the validation rules we have put in place to ensure the integri
 ## 6. How-To
 
 * In the case your school has term courses and year-long course, you can create a term that last the whole year  
-  ** So let's imagine, that in year 5, students follow a semester of Music and Design and a year of Math and English.  
-  ** You can enroll the student in Music and Design just for S1, while you enroll the student for a term called S1-S2 that lasts the whole year.  
+** So let's imagine, that in year 5, students follow a semester of Music and Design and a year of Math and English.  
+** You can enroll the student in Music and Design just for S1, while you enroll the student for a term called S1-S2 that lasts the whole year.  
 
 {next}

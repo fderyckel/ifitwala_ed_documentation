@@ -14,10 +14,10 @@ Usually each department has a lead.  The lead of the department has to be picked
 Sometimes, department can have their own philosophy on how to approach their subject.
 
 List view
-![Department list view](/docs/assets/img/school-settings/department-listview.png)
+![Department list view](/docs/assets/img/school-settings/department-listttview.png)
 
 Doc View
-![Department Doc view](/docs/assets/img/school-settings/department-docview.png)
+![Department Doc view](/docs/assets/img/school-settings/department-docccview.png)
 
 # 1. Before to fill in the department
 It is preferable to fill in first the
@@ -45,9 +45,8 @@ In Standard View (blank).
 
 ## 4.  Roles and permissions
 
-The following roles have permissions on the Academic Term.
+The following roles have permissions on the Academic Term
 ![Permissions for Department](/docs/assets/img/school-settings/department-permission.png)
-
 
 ## 5. Awesomeness, validation rules and other default behaviors
 
