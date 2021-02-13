@@ -1,17 +1,20 @@
 <!-- add-breadcrumbs -->
 # School Calendar
 
-The school calendar details the weekend and breaks that happen during a given academic year.  This will also compute the number of instructional days within an academic year.
+The school calendar details the weekend and breaks that happen during a given academic year.  This will also compute the number of instructional days within an academic year.  
+School calendar will be taken into consideration when taking attendance, or creating student leave request, or creating the courses schedule.
 
 To access the School Calendar doctype, go to:
 
 > Home > School Settings > School Calendar
 
 List View
- ![School Calendar List View](/docs/assets/img/school-settings/academic-term-listview.png)
+ ![School Calendar List View](/docs/assets/img/school-settings/school-calendar-listview1.png)
 
 Document View
-![School Calendar Document View](/docs/assets/img/school-settings/academic-term-docview.png)
+![School Calendar Document View](/docs/assets/img/school-settings/school-calendar-docview1.png)
+
+![School Calendar Document View2](/docs/assets/img/school-settings/school-calendar-docview2.png)
 
 
 ## 1. Before to fill in the School Calendar
@@ -19,6 +22,7 @@ It is preferable to fill in first
 
 * [The School](/docs/user/manual/en/education-settings/01_school) doctype
 * [The Academic Year](/docs/user/manual/en/education-settings/02_academic-year) doctype
+* [The Academic Term](/docs/user/manual/en/education-settings/02_academic-term) doctype
 
 ## 2. Fields to fill in the Calendar  
 
@@ -26,31 +30,36 @@ In Standard View.
 ![Academic Term Fields in standard view](/docs/assets/img/school-settings/academic-term-fields.png)
 
 * *Academic Year*: a link to the Academic Year related to this school calendar.
-* *Term Name*: the name to be given to the term.  For instance if you are having semesters as terms, you would call it S1 or S2.  If you are having quarters as terms, you could call it Q1 or Q2, etc.  You could also create a year long term for course that are year long.  
-* *Term Start Date*: the first day of your academic term.
-* *Term End Date*: the last day of your academic term.
+* *Calendar Name*: the name to be given to the calendar.  For instance, you could give it the same name as your academic year to keep the naming simple.
+* *School*: the school that this school calendar belong to.
+* *Start of Break*: the first day of your school break - (you will repeat the process for each of your break during your school calendar year, even if the break is only one day long.)
+* *End of Break*: the last day of your break.
+* *Break Color*: Color for the calendar view. This can be set in the Education Setting document as default values.
+* *Add to holidays*: to add these days to the holiday list.
+* *Weekly Off*: most schools around the world have 2 days off per week.  This allows you to mark all the weekend / days off for the academic year.
+* *Weekend Color*: Color for the calendar view. This can be set in the Education Setting document as default values.
 
-## 3. Documents linked to Academic Term
+## 3. Documents linked to School Calendar
 
-* [Student Leave Application](/docs/user/manual/en/education-settings/education-settings)
-* [Student Attendance](/docs/user/manual/en/schedule/program-enrollment) 
+* [Student Leave Application](/docs/user/manual/en/student/07_student-leave-application)
+* [Student Attendance](/docs/user/manual/en/student/06_student-attendance)
 
-## 4.  Roles and permissions
+## 4. Roles and permissions
 
 The following roles have permissions on the Academic Term.
-![Permissions for Academic Term](/docs/assets/img/school-settings/academic-term-permission.png)
+![Permissions for School Calendar](/docs/assets/img/school-settings/school-calendar-permission.png)
 
 When the academic term is linked to a school, only the employees of that school (or its children) will have permission to read the DocType.
 
 ## 5. Awesomeness, validation rules and other default behaviors
 
-* two all-day school events are created in the [School Event](/docs/user/manual/en/education-settings/07_school-event) Calendar.  One for the start of the academic term and one for its end. These events are public and will be visible to everyone belonging to that school.
-![Academic Term School Event](/docs/assets/img/school-settings/academic-term-calendar.png)
+* automatically compute the number of days within your academic year, the number of holidays and weekend and the number of instructional days.  
+* automatically bring up a table with all the academic terms and their length (in days) as long as their belong the chosen academic year. 
 
 Here are some of the validation rules we have put in place to ensure the integrity of the data.
 
-* unique name for academic term
-* the start of the academic term cannot be after the end of the academic term (or vice-versa)
-* an academic term has to be within its academic year.
+* unique name for school calendar
+* all breaks/weekend have to be within the academic year
+*
 
 {next}
