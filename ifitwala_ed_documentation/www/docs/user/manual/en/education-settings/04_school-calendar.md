@@ -2,7 +2,7 @@
 # School Calendar
 
 The school calendar details the weekend and breaks that happen during a given academic year.  This will also compute the number of instructional days within an academic year.  
-School calendar will be taken into consideration when taking attendance, or creating student leave request, or creating the courses schedule.
+School calendar will be taken into consideration when taking attendance, or creating student leave request, or creating the course schedules.
 
 To access the School Calendar doctype, go to:
 
